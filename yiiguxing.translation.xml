@@ -12,10 +12,14 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="UNAVAILABLE" />
+      <item value="activity" />
+      <item value="monitor" />
+      <item value="我的世界" />
       <item value="你好" />
       <item value="我的" />
       <item value="w" />
@@ -23,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="8" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
