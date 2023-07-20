@@ -1,0 +1,31 @@
+<application>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1689833416329" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="AUTO" />
+    <option name="translator" value="YOUDAO" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="1348f54fcc6880eb" />
+      </youdao-translate>
+    </option>
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="594" />
+    <option name="newTranslationDialogX" value="815" />
+    <option name="newTranslationDialogY" value="450" />
+    <histories>
+      <item value="你好" />
+      <item value="我的" />
+      <item value="w" />
+      <item value="hhh" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="8" />
+      </map>
+    </option>
+  </component>
+</application>
