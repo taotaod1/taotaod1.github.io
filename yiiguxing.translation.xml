@@ -16,6 +16,7 @@
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="dynamic-datasource can not find primary datasource" />
       <item value="UNAVAILABLE: io exception" />
       <item value="Connection refused: no further information" />
       <item value="UNAVAILABLE" />
@@ -29,8 +30,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
