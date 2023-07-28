@@ -12,10 +12,12 @@
     </option>
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="588" />
     <option name="newTranslationDialogX" value="815" />
     <option name="newTranslationDialogY" value="450" />
     <histories>
+      <item value="计算" />
+      <item value="ji" />
       <item value="component Model" />
       <item value="expire Time" />
       <item value="Unsatisfied dependency expressed through constructor parameter 0" />
